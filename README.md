@@ -8,7 +8,11 @@ Table of Contents
 
 1. [Rule Types](#)
   - [Application Based](#)
-  - [Routes Based](#)
+  - [Routes Based](#Rule Types11)
+  - [Routes Based](#RuleTypes11)
+  - [Routes Based](#Rule-Types11)
+  - [Routes Based](#Rule-types11)
+  - [Routes Based](#rule-types11)
 
 
 
